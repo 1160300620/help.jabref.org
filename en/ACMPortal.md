@@ -16,3 +16,6 @@ To start a search, enter the words of your query, and press <kbd>Enter</kbd> or 
 Frequent connections to ACM Portal may get your IP banned for hours. To avoid this, JabRef will for each search display a preview of the first page of entries returned by the server. You can then choose which entries to download.
 
 Then, the results are displayed in the [import inspection window](ImportInspectionDialog).
+
+
+
